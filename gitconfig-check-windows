@@ -1,0 +1,77 @@
+[includeIf "gitdir/i:A:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:B:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:C:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:D:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:E:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:F:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:G:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:H:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:I:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:J:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:K:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:L:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:M:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:N:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:O:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:P:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:Q:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:R:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:S:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:T:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:U:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:V:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:W:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:X:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:Y:/"]
+    path = gitconfig-windows
+
+[includeIf "gitdir/i:Z:/"]
+    path = gitconfig-windows
