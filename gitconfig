@@ -10,6 +10,9 @@
 [includeIf "gitdir:/"]
     path = gitconfig-linux
 
+[includeIf "gitdir:/Users/"]
+    path = gitconfig-macos
+
 [includeIf "hasconfig:remote.*.url:https://github.com/**"]
     path = gitconfig-gm
 
