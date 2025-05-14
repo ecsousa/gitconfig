@@ -17,7 +17,7 @@
     path = gitconfig-gm
 
 [gpg "ssh"]
-  allowedSignersFile = "allowed_signers"
+  allowedSignersFile = "~/gitconfig/allowed_signers"
 
 [push]
     default = simple
