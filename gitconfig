@@ -16,9 +16,6 @@
 [includeIf "hasconfig:remote.*.url:https://github.com/**"]
     path = gitconfig-gm
 
-[gpg "ssh"]
-  allowedSignersFile = "~/gitconfig/allowed_signers"
-
 [push]
     default = simple
 
