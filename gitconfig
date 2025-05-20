@@ -58,3 +58,5 @@
 [grep]
     lineNumber = true
 
+[core]
+    editor=nvim
